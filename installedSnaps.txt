@@ -1,0 +1,20 @@
+clion --classic
+g-calendar
+gimp
+gitkraken
+gnome-calculator
+gnome-characters
+gnome-logs
+gnome-system-monitor
+inkscape
+intellij-idea-ultimate --classic
+libreoffice
+mailspring
+rambox
+rubymine --classic
+skype --classic
+spotify
+sublime-text --classic
+vlc
+vscode --classic
+wps-office
